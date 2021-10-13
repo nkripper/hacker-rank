@@ -12,8 +12,8 @@ if __name__ == '__main__':
         print("Weird")
     else:
         if 2 <= n <= 5:
-            print("Weird")
-        elif 6 <= n <= 20:
             print("Not Weird")
+        elif 6 <= n <= 20:
+            print("Weird")
         else:
             print("Not Weird")
